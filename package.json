@@ -1,0 +1,16 @@
+{
+  "name": "internet-connected",
+  "version": "1.0.0",
+  "description": "This checks for internet connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "type": "module",
+  "author": "PranavVS",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
