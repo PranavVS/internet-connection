@@ -1,4 +1,4 @@
-# is-connected?
+# internet-connected?
 
 ## Check for the Internet Connectivity. 🌍
 
@@ -16,17 +16,17 @@ is-connected checks for internet connection.
 ## Installation
 
 ```
-npm install 
+npm install
 ```
 
 ## Usage
 
 ```
 //import the module
-import isConnected from "is-connected";
+import internetConnected from "internet-connected";
 
 //check for connection
-  let connected = await isConnected();
+  let connected = await internetConnected();
 //
 
 ```
