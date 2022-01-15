@@ -3,6 +3,7 @@
 ## Check for the Internet Connectivity. 🌍
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Known Vulnerabilities](https://snyk.io/test/github/shystruk/no-internet/badge.svg?targetFile=package.json)](https://snyk.io/test/github/shystruk/no-internet?targetFile=package.json)
 
 is-connected checks for internet connection.
 
@@ -16,7 +17,7 @@ is-connected checks for internet connection.
 ## Installation
 
 ```
-npm install
+npm install internet-connected
 ```
 
 ## Usage
