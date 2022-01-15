@@ -1,6 +1,6 @@
 {
   "name": "internet-connected",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This Package checks for internet connection.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,36 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^3.1.0"
-  }
+  },
+  "keywords": [
+    "internet",
+    "connection",
+    "detect",
+    "check",
+    "connected",
+    "online",
+    "offline",
+    "accessible",
+    "reachable",
+    "browser",
+    "online",
+    "offline",
+    "is-online",
+    "network",
+    "connected",
+    "connectivity",
+    "internet",
+    "is",
+    "has",
+    "detect",
+    "hostname",
+    "hostnames",
+    "dns",
+    "socket",
+    "reachable",
+    "reachability",
+    "accessible",
+    "no",
+    "disconnected"
+  ]
 }
